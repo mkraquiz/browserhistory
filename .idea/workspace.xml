@@ -18,6 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1i8DY83MxCZUa5ncJUTomNiFHBd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
