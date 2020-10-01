@@ -34,6 +34,7 @@ img {
   width: 300px;
   padding: 1em;
 }
+
 .right {
   float: right;
   width: 300px;
@@ -41,13 +42,8 @@ img {
 }
 
 .center {
-  margin-left: 300px;
+  margin: 0 300px 0 300px;
   width: 300px;
   padding: 1em;
 }
 
-.right {
-  float: right;
-  width: 300px;
-  padding: 1em;
-}
