@@ -11,8 +11,8 @@ body {
 
 #navbar ul {
   list-style-type: none;
-  margin: 0px;
-  padding: 0em;
+  margin: 0;
+  padding: 0;
 }
 
 #navbar li {
@@ -31,6 +31,11 @@ img {
 
 .left{
   float: left;
+  width: 300px;
+  padding: 1em;
+}
+.right {
+  float: right;
   width: 300px;
   padding: 1em;
 }
