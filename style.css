@@ -29,21 +29,4 @@ img {
   margin-right: 10px;
 }
 
-.left{
-  float: left;
-  width: 300px;
-  padding: 1em;
-}
-
-.right {
-  float: right;
-  width: 300px;
-  padding: 1em;
-}
-
-.center {
-  margin: auto;
-  width: 300px;
-  padding: 1em;
-}
 
