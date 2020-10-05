@@ -1,32 +1,7 @@
-h1, h2 {
-  font-family: 'Oswald', sans-serif;
+body{
+  margin-top: 50px;
 }
 
-body {
-  font-family: 'Open Sans', sans-serif;
-  color: darkblue;
-  margin: 10px 50px 10px 50px;
-  background-color: Ivory;
+h1 {
+  color: #4183C4;
 }
-
-#navbar ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-#navbar li {
-  display: inline;
-}
-
-#navbar a {
-  margin-left: 75px;
-  margin-right: 75px;
-}
-
-img {
-  float: left;
-  margin-right: 10px;
-}
-
-
